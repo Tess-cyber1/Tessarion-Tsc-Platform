@@ -1,0 +1,22 @@
+Tessarion-Tsc-Platform/
+│
+├── README.md
+├── .gitignore
+├── LICENSE
+├── docs/                  # Documentation and whitepapers
+│   └── overview.md
+├── backend/               # API, AI engine, and database logic
+│   ├── app/
+│   ├── models/
+│   └── README.md
+├── frontend/              # React/Next.js frontend
+│   ├── components/
+│   ├── pages/
+│   └── README.md
+├── auth/                  # Authentication and user roles
+│   └── README.md
+├── education/             # LMS system: lessons, quizzes, cert tracking
+│   └── README.md
+├── dashboard/             # Investment and admin dashboards
+│   └── README.md
+└── .env.example           # Sample environment variables
